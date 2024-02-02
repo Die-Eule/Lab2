@@ -1,0 +1,29 @@
+.content-cards {
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-start;
+    align-items: center;
+    width: 100%;
+}
+
+.sub-header {
+    width: 1088px;
+    height: 149px;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.sub-header p {
+    font-size: 35px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.card-rows {
+    display: flex;
+    justify-content: space-around;
+    align-items: flex-start;
+    width: 90%;
+    margin-top: 37px;
+}
